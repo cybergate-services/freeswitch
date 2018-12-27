@@ -321,6 +321,7 @@ Build-Depends:
  libtiff5-dev,
  wget, pkg-config,
  yasm,
+ libgumbo-dev,
 # core codecs
  libogg-dev, libspeex-dev, libspeexdsp-dev,
 # configure options
